@@ -1,0 +1,5 @@
+country_or_area;year;comm_code;commodity;flow;trade_usd;weight_kg;quantity_name;quantity;category
+Afghanistan;2016;010410;Sheep, live;Export;6088;2339;Number of items;51;01_live_animals
+Afghanistan;2016;010420;Goats, live;Export;3958;984;Number of items;53;01_live_animals
+Afghanistan;2008;010210;Bovine animals, live pure-bred breeding;Import;1026804;272;Number of items;3769;01_live_animals
+Albania;2016;010290;Bovine animals, live, except pure-bred breeding;Import;2414533;1114023;Number of items;6853;01_live_animals
